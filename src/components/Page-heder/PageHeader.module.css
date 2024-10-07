@@ -1,0 +1,19 @@
+.pageHeader{
+    text-align: center;
+    color: floralwhite;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: teal;
+    margin-bottom: 12px;
+
+}   
+
+.pageHeaderTitle{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 1.6;
+    letter-spacing: 0.06em; 
+}
+
+
+
